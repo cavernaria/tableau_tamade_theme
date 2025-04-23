@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "base-theme": "smooth",
+    "styles": {
+        "worksheet": {
+            "font-color": "#de0711"
+        },
+        "view": {
+            "background-color": "#ffff00"
+        },
+        "mark": {
+            "mark-color": "#03a5e7"
+        }
+    }
+}
